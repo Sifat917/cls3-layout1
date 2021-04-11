@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+}
+.header{
+    background-color: aquamarine;
+    text-align: center;
+    color: rgb(17, 17, 143);
+    height: 100px;
+}
+.left{
+    background-color: rosybrown;
+    height: 400px;
+   width: 50%;
+   color: rgb(10, 10, 119);
+   text-align: center;
+   float: left;
+}
+.right{
+   background-color: plum;
+   width: 50%;
+   text-align: center;
+   height: 400px;
+   color: rgb(17, 17, 143);
+   float: right;
+}
+.content{
+    overflow: hidden;
+}
+.main{
+    background-color: paleturquoise;
+    color: rgb(17, 17, 143);
+   text-align: center;
+   height: 200px;
+}
+.foot{
+    background-color: rgb(240, 175, 119);
+    color: rgb(8, 8, 95);
+   text-align: center;
+   height: 100px;
+}
